@@ -27,7 +27,6 @@ This means, from now on, TensorFlow code can be used and debugged as ordinary py
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
-### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
@@ -55,4 +54,5 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
-edit
+JUST DOING MY LABS HERE
+
